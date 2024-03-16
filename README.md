@@ -2,4 +2,4 @@
 
 
 --Atividade de PAM2--
-Criação das 8 branchs para cada exercício feito.
+Criação das 7 branchs para cada exercício feito.
